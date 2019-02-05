@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+
+<HTML>
+  <head>
+    <title>
+      My First Great Site!
+    </title>
+  </head>
+  <body>
+    <center>
+      <H1>
+        Charles Little
+      </H1>
+      <H2>
+        <address>88 Pizza Road, Miami Fl</address>
+      </H2>
+    </center>
+      <img src="img_0722.jpg">
+      <p>
+        I am a Junior at the University of Miami. I am Majoring in Business Management and Minoring in Music Business, Entertainment Industries and Motion Pictures. I am from Flemington, New Jersey and love my dog named Reggie.
+      </p>
+<!-- This is where the big table starts  -->
+      <H2>
+        <b> Work Expirience </b>
+      </H2>
+      <table border="5" width="90%">
+        <TR> <b>
+          <TD> Bussiness <TD>
+          <TD> Position <TD>
+          <TD> Time <TD> </b>
+        </TR>
+        <TR>
+          <TD> Jake's Restaurant and Bar <TD>
+          <TD> Host <TD>
+          <TD> Oct. 2014 to Aug. 2016 <TD>
+        </TR>
+        <TR>
+          <TD> Central Wine Merchants <TD>
+          <TD> Sales Associate <TD>
+          <TD> Dec. 2016 to Present <TD>
+        </TR>
+  </body>
